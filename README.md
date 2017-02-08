@@ -1,1 +1,1 @@
-# 3D-House-architecture
+source files and report for the structure
